@@ -1,0 +1,1 @@
+-f $PROJ_HOME/design/logic_op/logic_op.f
